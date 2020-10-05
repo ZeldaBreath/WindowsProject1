@@ -42,10 +42,10 @@
     </Image>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="源.cpp">
+    <ClCompile Include="glad.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="glad.c">
+    <ClCompile Include="初学者窗口.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
