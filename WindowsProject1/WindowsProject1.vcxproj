@@ -158,7 +158,13 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="glad.c" />
-    <ClCompile Include="初学者窗口.cpp" />
+    <ClCompile Include="triangle.cpp" />
+    <Text Include="shader.fs">
+      <FileType>Document</FileType>
+    </Text>
+    <Text Include="shader.vs">
+      <FileType>Document</FileType>
+    </Text>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
