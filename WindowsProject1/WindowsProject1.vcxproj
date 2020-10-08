@@ -80,7 +80,7 @@
     <LinkIncremental>true</LinkIncremental>
     <ExecutablePath>$(ExecutablePath)</ExecutablePath>
     <LibraryPath>D:\opengl\libs;C:\Users\13255\source\repos\myHeaderAndLibs\libs;$(LibraryPath)</LibraryPath>
-    <IncludePath>D:\opengl\include;C:\Users\13255\source\repos\myHeaderAndLibs\header;$(IncludePath)</IncludePath>
+    <IncludePath>D:\opengl\header;C:\Users\13255\source\repos\myHeaderAndLibs\header;$(IncludePath)</IncludePath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <LinkIncremental>false</LinkIncremental>
